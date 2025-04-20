@@ -2,7 +2,7 @@
 
 ##Introduction
 
-Hi! I'm **Mayukha**, a first-year student in **Smart Manufacturing**. I'm not very familiar with Python, but I used this task to start learning the basics and get familiar with **ROS (Robot Operating System)**.
+I'm **Mayukha**,first-year student in **Smart Manufacturing**. I'm not very familiar with Python, but I used this task to start learning the basics and get familiar with **ROS (Robot Operating System)**.
 
 At first, I took some time to understand the basic code and how everything works. But after getting used to it, things became kind of  easier. I tried my best to understand and solve the questions. Due to time constraints and upcoming end-semester exams, I was able to complete **two questions** from Task 1.
 
@@ -12,8 +12,6 @@ At first, I took some time to understand the basic code and how everything works
 - How publishing and subscribing work in ROS  
 - How to use custom messages  
 - How to simulate basic robot movement  
-
-I enjoyed working on this and look forward to learning more about **AUVs** and **programming**!
 
 ---
 
@@ -32,6 +30,8 @@ Create a ROS package that allows two people (Jolyne and Joestar) to chat with ea
 - Basics of publisher-subscriber communication in ROS.
 - how to create nodes.
 - got to know few Python commands.
+- both the files were to be executed in different terminals.
+- the message written in one terminal would be shown in the other terminal.
 
 ### Challenges:
 - Understanding how to run both users in the same node and topic.
@@ -51,8 +51,8 @@ This task is about creating a chain of three programs (nodes) in ROS:
 ###My Approach:
 - I made three nodes:
   - The first one keeps publishing numbers like 2, 4, 6, 8...
-  - The second one listens to those numbers, multiplies them by 10, and sends them to a new topic.
-  - The third one listens to the new topic, adds 5 to the number, and prints it.
+  - The second one notes those numbers, multiplies them by 10, and sends them to a new topic.
+  - The third one notes those numbers from  new topic, adds 5 to the number, and prints it.
 - I used `rospy` to create all three nodes and topics.
 
 ##What I Learned:
