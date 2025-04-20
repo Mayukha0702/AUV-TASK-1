@@ -1,0 +1,8 @@
+prefix=/home/mayukha/catkin_ws/install
+
+Name: task2_chain_pubsub
+Description: Description of task2_chain_pubsub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

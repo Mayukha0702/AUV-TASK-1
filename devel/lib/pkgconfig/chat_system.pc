@@ -1,0 +1,8 @@
+prefix=/home/mayukha/catkin_ws/devel
+
+Name: chat_system
+Description: Description of chat_system
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/mayukha/catkin_ws/install
+
+Name: task3_bot_simulation
+Description: Description of task3_bot_simulation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

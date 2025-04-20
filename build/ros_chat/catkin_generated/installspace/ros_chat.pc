@@ -1,0 +1,8 @@
+prefix=/home/mayukha/catkin_ws/install
+
+Name: ros_chat
+Description: Description of ros_chat
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/mayukha/catkin_ws/devel
+
+Name: luxonis_task
+Description: Description of luxonis_task
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

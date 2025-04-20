@@ -1,0 +1,2 @@
+chat_system:luxonis_task:ros_chat:task2_chain_pubsub:task3_bot_simulation
+-DCATKIN_DEVEL_PREFIX=/home/mayukha/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mayukha/catkin_ws/install -G Unix Makefiles
